@@ -30,5 +30,14 @@ int main() {
     else
         printf("No aplicas para solicitar la beca\n");
 
+    // ASCII art
+    printf("\n");
+    printf("  ***************\n");
+    printf("  *   BIENVENID@ *\n");
+    printf("  ***************\n");
+    printf("       \\(^_^)/   \n");
+    printf("        (   )    \n");
+    printf("        /   \\    \n");
+
     return 0;
 }
